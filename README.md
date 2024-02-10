@@ -22,8 +22,8 @@ EventHub streamlines event management with a QR-based system, simplifying proces
    - Register for events, make payments using Razorpay, and receive a QR ticket with encrypted details.
    
  4. Event Attendance:
-   - Attendees mark their attendance by scanning the QR code at the event.
-   - Real-time communication with the organiser and access to event-related resources, such as certificates.
+      - Attendees mark their attendance by scanning the QR code at the event.
+      - Real-time communication with the organiser and access to event-related resources, such as certificates.
 
 5. Notifications and Communication:
    - Real-time notifications for attendees and organisers for effective communication.

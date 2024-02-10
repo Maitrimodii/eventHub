@@ -12,7 +12,7 @@ EventHub streamlines event management with a QR-based system, simplifying proces
    - Implemented secure user authentication and authorization using JWT and Bcrypt.js for robust data protection.
    - Two user roles: Organiser and Attendee.
 
-2. Organiser Functionality:
+2. Organiser Features:
    - Organisers can post events, view previously posted events, and track the number of attendees.
    - Upload resources related to the event and communicate with attendees in real-time.
    

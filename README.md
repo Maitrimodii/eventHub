@@ -1,6 +1,6 @@
 
 
-#EventHub : A QR based event management system
+##EventHub : A QR based event management system
 
 
 ## 📑 Synopsis 

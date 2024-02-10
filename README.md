@@ -47,7 +47,7 @@ EventHub streamlines event management with a QR-based system, simplifying proces
 * MongoDB 
 
 
-## ⚙️ ### Installation
+## ⚙️ Installation
 
 Follwoing are the steps to septup project
 

@@ -1,6 +1,6 @@
 
 
-##EventHub : A QR based event management system
+## EventHub : A QR based event management system
 
 
 ## 📑 Synopsis 
@@ -52,7 +52,7 @@ Follwoing are the steps to septup project
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/Maitrimodii/Project-Name.git
    ```
 2. Install NPM packages
    ```sh

@@ -52,7 +52,7 @@ Follwoing are the steps to septup project
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Maitrimodii/Project-Name.git
+   https://github.com/Maitrimodii/eventHub.git
    ```
 2. Install NPM packages
    ```sh
